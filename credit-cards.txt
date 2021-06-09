@@ -1,0 +1,5 @@
+1111-2222-3333-4444
+Card number 1234-1234-1234-1234 has been processed
+Phone 0113 999 9999 today
+Multiple cards on one line 5555-6666-7777-8888 and 4444-5555-6666-7777
+
